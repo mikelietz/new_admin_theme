@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pluggable type="plugin">
+	<name>New Admin Theme</name>
+	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
+	<url>http://github.com/mikelietz/new_admin_theme/</url>
+	<author url="http://github.com/mikelietz/">Mike Lietz</author>
+	<version>1.0</version>
+	<description><![CDATA[Replacement admin theme.]]></description>
+	<copyright>2014</copyright>
+	<guid>06AF58C3-8115-4F52-AF53-9B9B0975EBA5</guid>
+	<help><value><![CDATA[<p>Place replacement files and folders in the admin/ folder of this plugin.</p>
+	]]></value></help>
+</pluggable>
